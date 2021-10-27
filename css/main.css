@@ -558,7 +558,10 @@ ul.sub-menu {
 #slider {
     padding-bottom: 45px;
 }
-
+.carousel {
+  width:100%;
+  height:100%;
+}
 .carousel-indicators li {
     background: #C4C4BE;
 }
@@ -566,6 +569,11 @@ ul.sub-menu {
 .carousel-indicators li.active {
     background: #FE980F;
 }
+.carousel-inner  .item .girl {
+  width:640px;
+  height:360px ; 
+}
+
 
 .item {
     padding-left: 100px;
